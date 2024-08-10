@@ -1,25 +1,17 @@
-<img src="./assets/pixel-night-banner.gif" align="middle" alt="Banner" width="100%"/>
-
-<img src="./assets/borderseparator.gif" width="100%"/>
 
 <div align="center">
-  <img src="./assets/animated-flame-01.gif" width="1.75%" align="left"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Dhruv+and+Welcome+to+my+Profile!" alt="Hey, I'm Meet and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
-  <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Dhruv+and+Welcome+to+my+Profile!" alt="Hey, I'm Dhruv and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
 </div>
-
-<img src="./assets/borderseparator.gif" width="100%"/>
 
 <div align="center">
   <p><b>Profile Views</b></p>
   <img src="https://profile-counter.glitch.me/Dhruvbagadiya/count.svg" />
 </div>
 
-<h2></h2>
+<h2></h2
 
-<img align="right" src="./assets/vaporwave-aesthetic.gif" height="560px" alt="pixel city image">
 
-<h2 align="center"> Self-taught<img src="./assets/animated-flame-01.gif" width="14px"/> and passionate<img src="./assets/animated-flame-01.gif" width="14px"/> about coding! </h2><br>
+<h2 align="center"> Self-taught & passionate about coding! </h2><br>
 
 - 👨‍💻 I'm Dhruv (Dhruv Bagadiya)👋, Full stack Developer. <br><br><br>
 
@@ -68,9 +60,9 @@
 
 <!-- <h2></h2> -->
 
-<!-- <div align="center">
+<div align="center">
   <img src="./assets/pixel-neon.gif" alt="pixel guy using computer" width="100%" /><br>
-</div> -->
+</div>
 
 <div align="center">
   <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
@@ -78,13 +70,6 @@
   
   <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2>
   <br>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetbhingradiya&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
-  <br>
-
-  <a href="https://wakatime.com/@meetbhingradiya" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=meetbhingradiya&theme=radical&layout=compact" alt="Wakatime Coding Time" width="540px">
-  </a>
   <br>
   <h2></h2>
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
@@ -102,10 +87,8 @@
 
 <h2></h2>
 
-<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
-<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 
-<h2 align="center">💻 Workspace<img src="./assets/borderseparator.gif"/></h2>
+<h2 align="center">💻 Workspace</h2>
 
 |                                                               👩‍💻 Device                                                               |                                                                                                                                                                                                                                                                                                                ⚙️ Specification                                                                                                                                                                                                                                                                                                                |                                                                                                                                         📃 Purpose                                                                                                                                         |
 | :----------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -122,13 +105,19 @@
 
 <div align="center">
   <h2> 🏆 My Github Stats <img src="./assets/borderseparator.gif"/></h2><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=meetbhingradiya&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
-  <img src="https://streak-stats.demolab.com?user=meetbhingradiya&theme=radical" width="49%" alt="streaks graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=meetbhingradiya&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Dhruvbagadiya&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
+  <img src="https://streak-stats.demolab.com?user=Dhruvbagadiya&theme=radical" width="49%" alt="streaks graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhruvbagadiya&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
 </div> <br>
 
 <div align="center">
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-light-mode-only">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvbagadiya&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+</a>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhruvbagadiya&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+</a>
+</p>
 </div>
 
 </br>
@@ -191,11 +180,11 @@
 
 <div align="center">
   <h2 align="center">✉️ Contact <img src="./assets/borderseparator.gif"/></h2>
-  <!-- <a href="https://www.facebook.com/meetbhingradiya" target="_blank">
+  <!-- <a href="https://www.facebook.com/Dhruvbagadiya" target="_blank">
     <img src="./assets/logos/neon-facebook.png" width="48px" alt="Facebook"/>
   </a> -->
   &nbsp
-  <!-- <a href="https://twitter.com/meetbhingradiya" target="_blank">
+  <!-- <a href="https://twitter.com/Dhruvbagadiya" target="_blank">
     <img src="./assets/logos/neon-twitter.png" width="48px" alt="Twitter"/>
   </a> -->
   &nbsp
@@ -203,11 +192,11 @@
     <img src="./assets/logos/neon-instagram.png" width="48px" alt="Instagram"/>
   </a> -->
   &nbsp
-  <a href="https://www.linkedin.com/in/meetbhingradiya/" target="_blank">
+  <a href="https://www.linkedin.com/in/Dhruvbagadiya/" target="_blank">
     <img src="./assets/logos/neon-linkedin.png" width="48px" alt="LinkedIn"/>
   </a>
   &nbsp
-  <!-- <a href="https://discord.com/users/385102038087892992" target="_blank">
+  <!-- <a href="https://discord.com/users/385102038087892992" tar   get="_blank">
     <img src="./assets/logos/neon-discord.png" width="48px" alt="Discord"/>
   </a> -->
 </div>
@@ -216,4 +205,4 @@
 
 <div align="center">
   <img src="./assets/borderseparator.gif"/>
-  <h6 align="center"> 2021 - 2024 © Meet Bhingradiya | Readme from <a href="https://github.com/godkingjay">Jarrian Gojar</a> </h6>
+  <h6 align="center"> 2021 - 2024 © Dhruv Bagadiya | Readme from <a href="https://github.com/godkingjay">Jarrian Gojar</a> </h6>
