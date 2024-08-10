@@ -21,17 +21,15 @@
 
 <h2 align="center"> Self-taught<img src="./assets/animated-flame-01.gif" width="14px"/> and passionate<img src="./assets/animated-flame-01.gif" width="14px"/> about coding! </h2><br>
 
-- 👨‍💻 I'm Meet (Meet Bhingradiya)👋, a college student, I'm currently pursuing a Diploma IT Degree in the India. <br><br><br>
+- 👨‍💻 I'm Dhruv (Dhruv Bagadiya)👋, Full stack Developer. <br><br><br>
 
-- 🌳 I’m currently learning WebScraping using Python! <br><br><br>
+- 🌳 I’m currently Web Develpoper with deep foundation of Node.js <br><br><br>
 
 - 🐾 I’m looking to network and make friends here! <br><br><br>
 
-- 🌊 2024 Goals: Learn Python and Selinium and Contribute to Open Source Projects. <br><br><br>
-
 - ☕ Interest: Science, Space, GeoPolitics, and Coding. <br><br><br>
 
-- <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="16px"/> Hobbies: Sleeping & Coding. <br><br>
+- <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="16px"/> Hobbies: Cricket & Coding. <br><br>
 
 <!-- <h2></h2>
 
