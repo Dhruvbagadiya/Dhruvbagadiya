@@ -60,9 +60,9 @@
 
 <!-- <h2></h2> -->
 
-<div align="center">
+<!--<div align="center">
   <img src="./assets/pixel-neon.gif" alt="pixel guy using computer" width="100%" /><br>
-</div>
+</div> -->
 
 <div align="center">
   <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
@@ -96,9 +96,9 @@
 
 <h2></h2>
 
-<div align="center">
+<!-- <div align="center">
   <img src="./assets/pixel-night.gif" alt="pixel city night" width="100%" /><br>
-</div>
+</div> -->
 
 <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
 <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
