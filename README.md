@@ -69,7 +69,7 @@
   <br>
   <h2></h2>
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
-  <img src="https://skillicons.dev/icons?theme=dark&perline=10&i=git,github,gitlab,githubactions,nodejs,vite,html,css,tailwind,js,ts,react,redux,java,c,cpp,py,mongodb,mysql,postman,netlify,vercel,figma,materialui,docker,aws,bootstrap,gcp,md,replit,stackoverflow,vite" alt="skills logos" />    
+  <img src="https://skillicons.dev/icons?theme=dark&perline=10&i=git,github,gitlab,githubactions,nodejs,vite,html,css,tailwind,js,ts,react,redux,java,c,cpp,py,mongodb,mysql,postman,netlify,vercel,figma,materialui,docker,aws,bootstrap,gcp,md,replit,stackoverflow,vue,vite" alt="skills logos" />    
   <br> 
   <h2></h2>
   <h3> <strong> Actively Learning </strong></h3>
@@ -78,7 +78,7 @@
 
   <h2></h2>
   <h3> <strong> Planning to Learn </strong></h3>
-  <img src="https://skillicons.dev/icons?theme=dark&perline=10&i=remix,azure,cloudflare,dart,discord,django,dotnet,dynamodb,flask,flutter,gatsby,heroku,jenkins,jest,kotlin,jquery,linux,laravel,latex,maven,nestjs,nginx,nuxtjs,perl,ps,powershell,prisma,pug,pytorch,rust,svelte,sequelize,swift,tensorflow,unity,unreal,vitest,vue,vscode,webpack,wordpress,workers,xd, bots" alt="skills planning to learn logos">
+  <img src="https://skillicons.dev/icons?theme=dark&perline=10&i=remix,azure,cloudflare,dart,django,dynamodb,flask,heroku,jenkins,jest,kotlin,jquery,linux,laravel,nestjs,nginx,nuxtjs,perl,ps,powershell,prisma,pug,pytorch,rust,svelte,sequelize,swift,tensorflow,unreal,vitest" alt="skills planning to learn logos">
 </div>
 
 <h2></h2>
