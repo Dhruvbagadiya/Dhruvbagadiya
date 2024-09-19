@@ -10,7 +10,7 @@
 
 <h2 align="center"> Self-taught & passionate about coding! </h2><br>
 
-- 👨‍💻 I'm Dhruv (Dhruv Bagadiya)👋, Full stack Developer. <br><br><br>
+- 👨‍💻 I'm Dhruv (Dhruv Bagadiya)👋. <br><br><br>
 
 - 🌳 I’m currently Web Developer with deep foundation of Node.js <br><br><br>
 
