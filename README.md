@@ -1,7 +1,4 @@
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Dhruv+and+Welcome+to+my+Profile!" alt="Hey, I'm Dhruv and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
-</div>
 
 <div align="center">
   <p><b>Profile Views</b></p>
@@ -65,8 +62,7 @@
 </div> -->
 
 <div align="center">
-  <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
-  <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+
   
   <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2>
   <br>
@@ -100,9 +96,6 @@
   <img src="./assets/pixel-night.gif" alt="pixel city night" width="100%" /><br>
 </div> -->
 
-<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
-<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
-
 <div align="center">
   <h2> 🏆 My Github Stats <img src="./assets/borderseparator.gif"/></h2><br>
   <img src="https://github-profile-trophy.vercel.app/?username=Dhruvbagadiya&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
@@ -124,8 +117,6 @@
 
 <h2></h2>
 
-<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
-<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 
 <div align="center">
   <h2 align="center">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></h2><br>
@@ -175,22 +166,20 @@
 
 <h2></h2>
 
-<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
-<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 
 <div align="center">
   <h2 align="center">✉️ Contact <img src="./assets/borderseparator.gif"/></h2>
-  <!-- <a href="https://www.facebook.com/Dhruvbagadiya" target="_blank">
+<!--   <a href="https://www.facebook.com/Dhruvbagadiya" target="_blank">
     <img src="./assets/logos/neon-facebook.png" width="48px" alt="Facebook"/>
   </a> -->
   &nbsp
-  <!-- <a href="https://twitter.com/Dhruvbagadiya" target="_blank">
+  <a href="https://twitter.com/dhruvbagadiya" target="_blank">
     <img src="./assets/logos/neon-twitter.png" width="48px" alt="Twitter"/>
-  </a> -->
+  </a>
   &nbsp
-  <!-- <a href="https://www.instagram.com/_meet_bhingradiya_/" target="_blank">
+  <a href="https://www.instagram.com/dhruvbagadiya34/" target="_blank">
     <img src="./assets/logos/neon-instagram.png" width="48px" alt="Instagram"/>
-  </a> -->
+  </a>
   &nbsp
   <a href="https://www.linkedin.com/in/dhruv-bagadiya/" target="_blank">
     <img src="./assets/logos/neon-linkedin.png" width="48px" alt="LinkedIn"/>
@@ -205,4 +194,4 @@
 
 <div align="center">
   <img src="./assets/borderseparator.gif"/>
-  <h6 align="center"> 2021 - 2024 © Dhruv Bagadiya | Readme from <a href="https://github.com/godkingjay">Jarrian Gojar</a> </h6>
+  <h6 align="center"> 2021 - 2024 © Dhruv Bagadiya | Readme from <a href="https://github.com/Dhruvbagadiya">Dhruv Bagadiya</a> </h6>
