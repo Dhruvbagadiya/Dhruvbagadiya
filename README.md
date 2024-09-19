@@ -12,7 +12,7 @@
 
 - 👨‍💻 I'm Dhruv (Dhruv Bagadiya)👋, Full stack Developer. <br><br><br>
 
-- 🌳 I’m currently Web Develpoper with deep foundation of Node.js <br><br><br>
+- 🌳 I’m currently Web Developer with deep foundation of Node.js <br><br><br>
 
 - 🐾 I’m looking to network and make friends here! <br><br><br>
 
@@ -66,8 +66,6 @@
   
   <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2>
   <br>
-  <br>
-  <h2></h2>
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
   <img src="https://skillicons.dev/icons?theme=dark&perline=10&i=git,github,gitlab,githubactions,nodejs,vite,html,css,tailwind,js,ts,react,redux,java,c,cpp,py,mongodb,mysql,postman,netlify,vercel,figma,materialui,docker,aws,bootstrap,gcp,md,replit,stackoverflow,vue,vite" alt="skills logos" />    
   <br> 
@@ -84,13 +82,13 @@
 <h2></h2>
 
 
-<h2 align="center">💻 Workspace</h2>
+<!--<h2 align="center">💻 Workspace</h2>
 
 |                                                               👩‍💻 Device                                                               |                                                                                                                                                                                                                                                                                                                ⚙️ Specification                                                                                                                                                                                                                                                                                                                |                                                                                                                                         📃 Purpose                                                                                                                                         |
 | :----------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://img.shields.io/badge/Asus%20Tuf%20Gaming%20A15-83B81A?style=for-the-badge&logo=asus&logoColor=white" alt="Asus Tuf Gaming A15"/> | <img src="https://img.shields.io/badge/Windows%2011%20Pro-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 11 Pro"/> <img src="https://img.shields.io/badge/AMD%20Ryzen%205%204600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="Windows 11 Pro"/> <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Nvidia GTX1650"/> <img src="https://img.shields.io/badge/512GB%20SSD-0078D6?style=for-the-badge" alt="512GB SSD"/> <img src="https://img.shields.io/badge/16GB%20DDR4-0078D6?style=for-the-badge&logoColor=white" alt="16GB RAM"> | <img src="https://img.shields.io/badge/🧑‍💻%20Work-007DB8?style=for-the-badge" alt="Work"> <img src="https://img.shields.io/badge/🧑‍💻%20Programming-202020?style=for-the-badge" alt="Programming"> <img src="https://img.shields.io/badge/🧑‍🎓%20School-00897B?style=for-the-badge" alt="School"> |
+| <img src="https://img.shields.io/badge/Asus%20Tuf%20Gaming%20A15-83B81A?style=for-the-badge&logo=asus&logoColor=white" alt="Asus Tuf Gaming A15"/> | <img src="https://img.shields.io/badge/Windows%2011%20Pro-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 11 Pro"/> <img src="https://img.shields.io/badge/AMD%20Ryzen%205%204600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="Windows 11 Pro"/> <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Nvidia GTX1650"/> <img src="https://img.shields.io/badge/512GB%20SSD-0078D6?style=for-the-badge" alt="512GB SSD"/> <img src="https://img.shields.io/badge/16GB%20DDR4-0078D6?style=for-the-badge&logoColor=white" alt="16GB RAM"> | <img src="https://img.shields.io/badge/🧑‍💻%20Work-007DB8?style=for-the-badge" alt="Work"> <img src="https://img.shields.io/badge/🧑‍💻%20Programming-202020?style=for-the-badge" alt="Programming"> <img src="https://img.shields.io/badge/🧑‍🎓%20School-00897B?style=for-the-badge" alt="School"> | 
 
-<h2></h2>
+<h2></h2> -->
 
 <!-- <div align="center">
   <img src="./assets/pixel-night.gif" alt="pixel city night" width="100%" /><br>
