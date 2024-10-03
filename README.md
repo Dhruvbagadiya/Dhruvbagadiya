@@ -64,7 +64,6 @@
 <div align="center">
 
   
-  <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2>
   <br>
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
   <img src="https://skillicons.dev/icons?theme=dark&perline=10&i=git,github,gitlab,githubactions,nodejs,vite,html,css,tailwind,js,ts,react,redux,java,c,cpp,py,mongodb,mysql,postman,netlify,vercel,figma,materialui,docker,aws,bootstrap,gcp,md,replit,stackoverflow,vue,vite" alt="skills logos" />    
@@ -95,7 +94,6 @@
 </div> -->
 
 <div align="center">
-  <h2> 🏆 My Github Stats <img src="./assets/borderseparator.gif"/></h2><br>
   <img src="https://github-profile-trophy.vercel.app/?username=Dhruvbagadiya&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
   <img src="https://streak-stats.demolab.com?user=Dhruvbagadiya&theme=radical" width="49%" alt="streaks graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=Dhruvbagadiya&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
@@ -117,7 +115,6 @@
 
 
 <div align="center">
-  <h2 align="center">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></h2><br>
   No Projects Added Yet! (Public Projects Only)
   <!-- <a href="https://github.com/godkingjay/selenium-twitter-scraper" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=godkingjay&theme=radical&repo=selenium-twitter-scraper" width="49%" alt="Selenium Twitter Scraper"/>
@@ -166,7 +163,6 @@
 
 
 <div align="center">
-  <h2 align="center">✉️ Contact <img src="./assets/borderseparator.gif"/></h2>
 <!--   <a href="https://www.facebook.com/Dhruvbagadiya" target="_blank">
     <img src="./assets/logos/neon-facebook.png" width="48px" alt="Facebook"/>
   </a> -->
