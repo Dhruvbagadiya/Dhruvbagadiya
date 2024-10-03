@@ -10,13 +10,13 @@
 
 <h2 align="center"> Self-taught & passionate about coding! </h2><br>
 
-- 👨‍💻 I'm Dhruv (Dhruv Bagadiya)👋. <br><br><br>
+- 👨‍💻 I'm Dhruv (Dhruv Bagadiya)👋. <br><br>
 
-- 🌳 I’m currently Web Developer with deep foundation of Node.js <br><br><br>
+- 🌳 I’m currently Web Developer with deep foundation of Node.js <br><br>
 
-- 🐾 I’m looking to network and make friends here! <br><br><br>
+- 🐾 I’m looking to network and make friends here! <br><br>
 
-- ☕ Interest: Science, Space, GeoPolitics, and Coding. <br><br><br>
+- ☕ Interest: Science, Space, GeoPolitics, and Coding. <br><br>
 
 - <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="16px"/> Hobbies: Cricket & Coding. <br><br>
 
