@@ -187,5 +187,4 @@
 <img src="./assets/animated-wave.svg" />
 
 <div align="center">
-  <img src="./assets/borderseparator.gif"/>
   <h6 align="center"> 2021 - 2024 © Dhruv Bagadiya | Readme from <a href="https://github.com/Dhruvbagadiya">Dhruv Bagadiya</a> </h6>
